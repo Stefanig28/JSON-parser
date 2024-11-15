@@ -1,0 +1,11 @@
+{
+    "name": "John",
+    "age": 30,
+    "married": false,
+    "address": {
+      "street": "123 Main St",
+      "city": "Somewhere"
+    },
+    "children": ["Anna", "Ben"],
+    "pets": null
+  }
